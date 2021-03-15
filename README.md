@@ -12,17 +12,16 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
-
-
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Página criada como parte de um projeto de design responsivo.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
+- [x] Registro
+- [x] Login
+- [x] Responsivo
+
 
 ## 🎨 Layout
 
@@ -53,13 +52,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://www.linkedin.com/in/ajdonato/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://instagram.fjpr1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/16228905_1202683479850066_3083234756964384768_a.jpg?tp=1&_nc_ht=instagram.fjpr1-1.fna.fbcdn.net&_nc_ohc=RshkyRTUxuEAX-WcICM&oh=36805f5b4f3f25b1a09f6a3392344361&oe=6079A40F" width="100px;" alt=""/>
  <br />
  <sub><b>Amazon Donato</b></sub></a> <a href="https://www.linkedin.com/in/ajdonato/" title="Linkedin">🚀</a>
  <br />
-
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-ajd.oliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajd.oliveira@gmail.com)](mailto:ajd.oliveira@gmail.com)
 
 ---
 
