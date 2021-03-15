@@ -1,9 +1,9 @@
 <h1 align="center">
-     ♻️ <a href="#" alt="site do ecoleta"> Ecoleta </a>
+     <a href="#"> Formulário de Registro e Login </a>
 </h1>
 
 <h3 align="center">
-    🌱 Seu marketplace de coleta de resíduos. Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente. 💚
+    🌱 Formulário responsivo para cadastro e login de usuários 💚
 </h3>
 
 <p align="center">
@@ -117,17 +117,6 @@ O layout da aplicação está disponível no Figma:
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
 </p>
 
----
-
-## 🚀 Como executar o projeto
-
-Este projeto é divido em três partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
-3. Mobile (pasta mobile)
-
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -151,7 +140,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Esse projeto está licenciado pela MIT LICENSE. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório.
 
 Feito com ❤️ por Amazon Donato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/ajdonato/)
 
