@@ -29,17 +29,17 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ### Mobile
 
 <p align="center">
-  <img alt="FormLoginRegister" title="#FormLoginRegister" src="./img/ss/register-mobile.jpg" width="200px">
+  <img alt="FormLoginRegister" title="#FormLoginRegister" src="./img/ss/login-mobile.jpg" width="200px">
 
-  <img alt="FormLoginRegister" title="#FormLoginRegister" src="./img/ss/login-desktop.jpg" width="200px">
+  <img alt="FormLoginRegister" title="#FormLoginRegister" src="./img/ss/register-mobile.jpg" width="200px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="FormLoginRegister" title="#FormLoginRegister" src="./img/ss/register-desktop.jpg" width="400px">
-
   <img alt="FormLoginRegister" title="#FormLoginRegister" src="./img/ss/login-desktop.jpg" width="400px">
+
+  <img alt="FormLoginRegister" title="#FormLoginRegister" src="./img/ss/register-desktop.jpg" width="400px">
 </p>
 
 ## 🛠 Tecnologias
