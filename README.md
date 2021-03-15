@@ -1,5 +1,5 @@
 <h1 align="center">
-     <a href="#"> Formulário de Registro e Login </a>
+     <a href="http://amazon.dev.br/projects/form-register-login/"> Formulário de Registro e Login </a>
 </h1>
 
 <h3 align="center">
@@ -9,6 +9,9 @@
 <h4 align="center">
 	🚧   Concluído 🚀 🚧
 </h4>
+
+
+---
 
 ## 💻 Sobre o projeto
 
@@ -33,6 +36,8 @@ Página criada como parte de um projeto de design responsivo.
   <img alt="FormLoginRegister" title="#FormLoginRegister" src="./img/ss/register-mobile.jpg" width="200px">
 </p>
 
+---
+
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -40,6 +45,8 @@ Página criada como parte de um projeto de design responsivo.
 
   <img alt="FormLoginRegister" title="#FormLoginRegister" src="./img/ss/register-desktop.jpg" width="400px">
 </p>
+
+---
 
 ## 🛠 Tecnologias
 
@@ -49,6 +56,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 -   **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 
+
+---
+
 ## 🦸 Autor
 
 <a href="https://www.linkedin.com/in/ajdonato/">
@@ -56,6 +66,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br />
  <sub><b>Amazon Donato</b></sub></a> <a href="https://www.linkedin.com/in/ajdonato/" title="Linkedin">🚀</a>
  <br />
+ 
+ 
 
 ---
 
